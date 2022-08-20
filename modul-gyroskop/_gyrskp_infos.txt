@@ -1,0 +1,39 @@
+##### Additional infos #####
+
+
+### Printing infos ###
+
+Model with file 'gyrskp-innen.FCStd' is oversized and needs to be scaled to 60% size to fit with the center-part (file: 'gyrskp-zentrum.FCStd')
+Same for models with file 'gyrskp-mitte.FCStd' and 'gyrskp-aussen.FCStd'
+
+Included pictures (PNG-Files) represent the oversized models before downscaling to the correct 60% value and may be not accurate!
+
+
+
+### Shopping infos ###
+
+## Magnets ##
+Additional magnets needed (two of same magnets) to put into the 'magnet-holder' center-part (file: 'gyrskp-zentrum.FCStd')
+
+Dimensions: 4mm x 10mm
+Material: Neodym
+Link: https://www.magnet-shop.net/neodym/stabmagnete/stabmagnet-4.0-x-10.0-mm-n45-nickel-haelt-900-g
+
+## Faden? ##
+A 'Faden' is needed for the part '09_gyrskp-zentrum-senklot.FCStd'...
+
+
+
+
+
+## Other stuff ##
+
+blah blah...
+
+
+
+## ToDo-List ##
+
+this and that...
+
+
