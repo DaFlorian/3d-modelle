@@ -1,0 +1,45 @@
+##### Bausatzteil-Infos #####
+
+### Teil: frm-spulenform-r4-l15
+
+Name			frm-spulenform-r4-l15
+Innenradius		4,4mm - Passend für 8mm Eisenkern
+Aussenradius	5,5mm
+Länge			15mm
+Kommentar		...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
