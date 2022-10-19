@@ -1,0 +1,50 @@
+##### Infos #####
+
+### Magnetmaße
+
+Typ:	Rund-Magnet
+Radius:	7mm
+Durchm:	14mm
+Höhe:	5mm
+Anzahl:	>4
+
+
+Typ:	Stab-Magnet
+Radius:	2,5mm
+Länge:	25mm
+Anzahl:	3
+
+
+Typ:	Stab-Magnet
+Radius:	1,5mm
+Länge:	15mm
+Anzahl:	10
+
+
+Typ:	Stab-Magnet
+Radius:	1,5mm
+Länge:	10mm
+Anzahl:	16
+
+
+Typ:	Quader-Magnet
+LxB:	40mmX10mm	
+Höhe:	5mm
+Anzahl:	3
+
+
+Typ:	Knopf-Magnet (kleiner Rund-Magnet)
+Radius:	
+Höhe:	
+Anzahl:	~20
+
+
+
+
+
+
+
+
+
+
+
